@@ -1,4 +1,4 @@
-from database import SessionLocal, Log
+from storage.database import SessionLocal, Log
 from utils import should_offload
 from storage.sheets import append_to_sheet
 
