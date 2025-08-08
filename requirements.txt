@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+python-dotenv
+gspread
+oauth2client
+dateparser
+psycopg2-binary
+SQLAlchemy
